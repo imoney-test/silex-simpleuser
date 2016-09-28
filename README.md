@@ -1,7 +1,7 @@
 Simple User Provider for Silex
 ==============================
 
-[![Build Status](https://travis-ci.org/imoney-test/silex-simpleuser.svg?branch=master)](https://travis-ci.org/jasongrimes/silex-simpleuser)
+[![Build Status](https://travis-ci.org/imoney-test/silex-simpleuser.svg?branch=master)](https://travis-ci.org/imoney-test/silex-simpleuser)
 [![Total Downloads](https://poser.pugx.org/jasongrimes/silex-simpleuser/downloads.svg)](https://packagist.org/packages/jasongrimes/silex-simpleuser)
 [![Latest Stable Version](https://poser.pugx.org/jasongrimes/silex-simpleuser/v/stable.svg)](https://packagist.org/packages/jasongrimes/silex-simpleuser)
 [![Latest Unstable Version](https://poser.pugx.org/jasongrimes/silex-simpleuser/v/unstable.svg)](https://packagist.org/packages/jasongrimes/silex-simpleuser)
